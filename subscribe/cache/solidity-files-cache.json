@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/contracts/AccessPass.sol": {
-      "lastModificationDate": 1755401293674,
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/contracts/AccessPass.sol": {
+      "lastModificationDate": 1755409617960,
       "contentHash": "17013440e06a3fda699f9e7ccafbbd81",
       "sourceName": "contracts/AccessPass.sol",
       "solcConfig": {
@@ -40,45 +40,7 @@
         "AccessPass"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
-      "lastModificationDate": 1755400499649,
-      "contentHash": "d3c790edc9ccf808a17c5a6cd13614fd",
-      "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
-      "solcConfig": {
-        "version": "0.8.20",
-        "settings": {
-          "evmVersion": "paris",
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../utils/Context.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "Ownable"
-      ]
-    },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
       "lastModificationDate": 1755400499374,
       "contentHash": "522ec023bce510c30dfbf61584f5a190",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
@@ -122,7 +84,45 @@
         "ERC721"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/Context.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
+      "lastModificationDate": 1755400499649,
+      "contentHash": "d3c790edc9ccf808a17c5a6cd13614fd",
+      "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../utils/Context.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Ownable"
+      ]
+    },
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/Context.sol": {
       "lastModificationDate": 1755400498869,
       "contentHash": "67bfbc07588eb8683b3fd8f6f909563e",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
@@ -158,45 +158,7 @@
         "Context"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/interfaces/draft-IERC6093.sol": {
-      "lastModificationDate": 1755400499202,
-      "contentHash": "5041977bbe908de2e6ed0270447f79ad",
-      "sourceName": "@openzeppelin/contracts/interfaces/draft-IERC6093.sol",
-      "solcConfig": {
-        "version": "0.8.20",
-        "settings": {
-          "evmVersion": "paris",
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        ">=0.8.4"
-      ],
-      "artifacts": [
-        "IERC1155Errors",
-        "IERC20Errors",
-        "IERC721Errors"
-      ]
-    },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
       "lastModificationDate": 1755400499710,
       "contentHash": "d8f70caf0e0c77dc908176ed44812fb7",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
@@ -236,7 +198,45 @@
         "Strings"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/interfaces/draft-IERC6093.sol": {
+      "lastModificationDate": 1755400499202,
+      "contentHash": "5041977bbe908de2e6ed0270447f79ad",
+      "sourceName": "@openzeppelin/contracts/interfaces/draft-IERC6093.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.4"
+      ],
+      "artifacts": [
+        "IERC1155Errors",
+        "IERC20Errors",
+        "IERC721Errors"
+      ]
+    },
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
       "lastModificationDate": 1755400499318,
       "contentHash": "0906d06dca25210d4696dcef6dad2909",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
@@ -274,7 +274,83 @@
         "ERC165"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/utils/ERC721Utils.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+      "lastModificationDate": 1755400499577,
+      "contentHash": "f62e11dbd302e17a5621a1438f4e054c",
+      "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../../utils/introspection/IERC165.sol"
+      ],
+      "versionPragmas": [
+        ">=0.6.2"
+      ],
+      "artifacts": [
+        "IERC721"
+      ]
+    },
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
+      "lastModificationDate": 1755400499596,
+      "contentHash": "136c64eca25bcb8a68f43ac6605559f9",
+      "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../IERC721.sol"
+      ],
+      "versionPragmas": [
+        ">=0.6.2"
+      ],
+      "artifacts": [
+        "IERC721Metadata"
+      ]
+    },
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/utils/ERC721Utils.sol": {
       "lastModificationDate": 1755400499396,
       "contentHash": "4cefad279a37c895b709bce2b901816e",
       "sourceName": "@openzeppelin/contracts/token/ERC721/utils/ERC721Utils.sol",
@@ -313,10 +389,10 @@
         "ERC721Utils"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
-      "lastModificationDate": 1755400499577,
-      "contentHash": "f62e11dbd302e17a5621a1438f4e054c",
-      "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/math/SignedMath.sol": {
+      "lastModificationDate": 1755400499695,
+      "contentHash": "ae3528afb8bdb0a7dcfba5b115ee8074",
+      "sourceName": "@openzeppelin/contracts/utils/math/SignedMath.sol",
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
@@ -342,19 +418,19 @@
         }
       },
       "imports": [
-        "../../utils/introspection/IERC165.sol"
+        "./SafeCast.sol"
       ],
       "versionPragmas": [
-        ">=0.6.2"
+        "^0.8.20"
       ],
       "artifacts": [
-        "IERC721"
+        "SignedMath"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
-      "lastModificationDate": 1755400499596,
-      "contentHash": "136c64eca25bcb8a68f43ac6605559f9",
-      "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/math/SafeCast.sol": {
+      "lastModificationDate": 1755400499686,
+      "contentHash": "2adca1150f58fc6f3d1f0a0f22ee7cca",
+      "sourceName": "@openzeppelin/contracts/utils/math/SafeCast.sol",
       "solcConfig": {
         "version": "0.8.20",
         "settings": {
@@ -379,17 +455,15 @@
           }
         }
       },
-      "imports": [
-        "../IERC721.sol"
-      ],
+      "imports": [],
       "versionPragmas": [
-        ">=0.6.2"
+        "^0.8.20"
       ],
       "artifacts": [
-        "IERC721Metadata"
+        "SafeCast"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/math/Math.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/math/Math.sol": {
       "lastModificationDate": 1755400499630,
       "contentHash": "5ec781e33d3a9ac91ffdc83d94420412",
       "sourceName": "@openzeppelin/contracts/utils/math/Math.sol",
@@ -428,81 +502,7 @@
         "Math"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/math/SafeCast.sol": {
-      "lastModificationDate": 1755400499686,
-      "contentHash": "2adca1150f58fc6f3d1f0a0f22ee7cca",
-      "sourceName": "@openzeppelin/contracts/utils/math/SafeCast.sol",
-      "solcConfig": {
-        "version": "0.8.20",
-        "settings": {
-          "evmVersion": "paris",
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "SafeCast"
-      ]
-    },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/math/SignedMath.sol": {
-      "lastModificationDate": 1755400499695,
-      "contentHash": "ae3528afb8bdb0a7dcfba5b115ee8074",
-      "sourceName": "@openzeppelin/contracts/utils/math/SignedMath.sol",
-      "solcConfig": {
-        "version": "0.8.20",
-        "settings": {
-          "evmVersion": "paris",
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./SafeCast.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "SignedMath"
-      ]
-    },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/Panic.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/Panic.sol": {
       "lastModificationDate": 1755400499665,
       "contentHash": "2133dc13536b4a6a98131e431fac59e1",
       "sourceName": "@openzeppelin/contracts/utils/Panic.sol",
@@ -538,7 +538,7 @@
         "Panic"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
       "lastModificationDate": 1755400499537,
       "contentHash": "7074c93b1ea0a122063f26ddd1db1032",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
@@ -574,7 +574,7 @@
         "IERC165"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
       "lastModificationDate": 1755400499598,
       "contentHash": "d61660a41ce200e99816e4734f7fd202",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
@@ -610,8 +610,8 @@
         "IERC721Receiver"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/contracts/SubscriptionManager.sol": {
-      "lastModificationDate": 1755401546076,
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/contracts/SubscriptionManager.sol": {
+      "lastModificationDate": 1755409618017,
       "contentHash": "de6063c4fc4912c15edf28dd2bc159c1",
       "sourceName": "contracts/SubscriptionManager.sol",
       "solcConfig": {
@@ -653,7 +653,43 @@
         "SubscriptionManager"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/Pausable.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/ReentrancyGuard.sol": {
+      "lastModificationDate": 1755400499678,
+      "contentHash": "190613e556d509d9e9a0ea43dc5d891d",
+      "sourceName": "@openzeppelin/contracts/utils/ReentrancyGuard.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ReentrancyGuard"
+      ]
+    },
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/utils/Pausable.sol": {
       "lastModificationDate": 1755400499667,
       "contentHash": "0d47b53e10b1985efbb396f937626279",
       "sourceName": "@openzeppelin/contracts/utils/Pausable.sol",
@@ -691,43 +727,7 @@
         "Pausable"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/utils/ReentrancyGuard.sol": {
-      "lastModificationDate": 1755400499678,
-      "contentHash": "190613e556d509d9e9a0ea43dc5d891d",
-      "sourceName": "@openzeppelin/contracts/utils/ReentrancyGuard.sol",
-      "solcConfig": {
-        "version": "0.8.20",
-        "settings": {
-          "evmVersion": "paris",
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "ReentrancyGuard"
-      ]
-    },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol": {
       "lastModificationDate": 1755400499688,
       "contentHash": "1fb9edee1d763745a62d0b1954998792",
       "sourceName": "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
@@ -766,7 +766,7 @@
         "SafeERC20"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
       "lastModificationDate": 1755400499547,
       "contentHash": "9261adf6457863de3e9892f51317ec89",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
@@ -802,7 +802,7 @@
         "IERC20"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/interfaces/IERC1363.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/interfaces/IERC1363.sol": {
       "lastModificationDate": 1755400499523,
       "contentHash": "a7fd0f05e36b0d0a21c75340c9c639ec",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC1363.sol",
@@ -841,7 +841,7 @@
         "IERC1363"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/interfaces/IERC20.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/interfaces/IERC20.sol": {
       "lastModificationDate": 1755400499541,
       "contentHash": "68620db2da7583d9a4919096ac77f577",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC20.sol",
@@ -877,7 +877,7 @@
       ],
       "artifacts": []
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/interfaces/IERC165.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/interfaces/IERC165.sol": {
       "lastModificationDate": 1755400499531,
       "contentHash": "947853028399b7de34bcc3704ee06e99",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC165.sol",
@@ -913,7 +913,7 @@
       ],
       "artifacts": []
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
       "lastModificationDate": 1755400499340,
       "contentHash": "59dfce11284f2636db261df9b6a18f81",
       "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
@@ -954,7 +954,7 @@
         "ERC20"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
       "lastModificationDate": 1755400499551,
       "contentHash": "513778b30d2750f5d2b9b19bbcf748a5",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
@@ -992,8 +992,8 @@
         "IERC20Metadata"
       ]
     },
-    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/Project0/subscribe/contracts/MockStablecoin.sol": {
-      "lastModificationDate": 1755397236127,
+    "/Users/a89373/Library/Mobile Documents/com~apple~CloudDocs/Documents/Lakehead/Block Chain/BlockChainProject/subscribe/contracts/MockStablecoin.sol": {
+      "lastModificationDate": 1755409617323,
       "contentHash": "c1f26e6e69f1da06dd49e32c589cc885",
       "sourceName": "contracts/MockStablecoin.sol",
       "solcConfig": {
