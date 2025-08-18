@@ -6,10 +6,13 @@ node version 22
 
 # command
 
-npx hardhat compile
-npx hardhat node
-## in a second terminal
-npx hardhat run scripts/deploy.ts --network ganache 
+## Sanity-check the connection
+npx hardhat console --network ganachegui
+> (await ethers.provider.getBlockNumber()).toString()
 
-## Run tests
+## Deploy your contracts to the GUI chain
+npx hardhat compile
+npx hardhat run scripts/deploy.ts --network ganachegui
+
+## function test
 npx hardhat test

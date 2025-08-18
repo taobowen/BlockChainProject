@@ -10,7 +10,7 @@ const config: HardhatUserConfig = {
   networks: {
     ganachegui: {
       url: process.env.GANACHE_URL || "http://127.0.0.1:7545",
-      chainId: Number(process.env.GANACHE_CHAIN_ID || 5777),
+      chainId: Number(process.env.GANACHE_CHAIN_ID),
       // EITHER mnemonic (multiple accounts) ...
       accounts: process.env.GANACHE_MNEMONIC
         ? { mnemonic: process.env.GANACHE_MNEMONIC, count: 10 }

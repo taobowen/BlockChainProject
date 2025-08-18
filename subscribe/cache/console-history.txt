@@ -1,3 +1,5 @@
+(await ethers.provider.getBlockNumber()).toString()
+await ethers.provider.getNetwork()
 npx ganache --server.port 7545 --chain.chainId 5777 --wallet.mnemonic "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat"
 (await ethers.provider.getBlockNumber()).toString()
 npx hardhat compile
